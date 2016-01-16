@@ -42,6 +42,7 @@ nobase_include_HEADERS =		\
   stout/interval.hpp			\
   stout/ip.hpp				\
   stout/json.hpp			\
+  stout/jsonify.hpp			\
   stout/lambda.hpp			\
   stout/linkedhashmap.hpp		\
   stout/mac.hpp				\
@@ -124,6 +125,7 @@ nobase_include_HEADERS =		\
   stout/posix/gzip.hpp			\
   stout/posix/os.hpp			\
   stout/recordio.hpp			\
+  stout/representation.hpp			\
   stout/result.hpp			\
   stout/set.hpp				\
   stout/some.hpp			\
